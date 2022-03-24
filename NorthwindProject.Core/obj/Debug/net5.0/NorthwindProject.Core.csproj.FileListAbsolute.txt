@@ -1,0 +1,12 @@
+C:\Users\Aksamci\source\repos\NorthwindProject\NorthwindProject.Core\bin\Debug\net5.0\NorthwindProject.Core.deps.json
+C:\Users\Aksamci\source\repos\NorthwindProject\NorthwindProject.Core\bin\Debug\net5.0\NorthwindProject.Core.dll
+C:\Users\Aksamci\source\repos\NorthwindProject\NorthwindProject.Core\bin\Debug\net5.0\ref\NorthwindProject.Core.dll
+C:\Users\Aksamci\source\repos\NorthwindProject\NorthwindProject.Core\bin\Debug\net5.0\NorthwindProject.Core.pdb
+C:\Users\Aksamci\source\repos\NorthwindProject\NorthwindProject.Core\obj\Debug\net5.0\NorthwindProject.Core.csproj.AssemblyReference.cache
+C:\Users\Aksamci\source\repos\NorthwindProject\NorthwindProject.Core\obj\Debug\net5.0\NorthwindProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aksamci\source\repos\NorthwindProject\NorthwindProject.Core\obj\Debug\net5.0\NorthwindProject.Core.AssemblyInfoInputs.cache
+C:\Users\Aksamci\source\repos\NorthwindProject\NorthwindProject.Core\obj\Debug\net5.0\NorthwindProject.Core.AssemblyInfo.cs
+C:\Users\Aksamci\source\repos\NorthwindProject\NorthwindProject.Core\obj\Debug\net5.0\NorthwindProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\Aksamci\source\repos\NorthwindProject\NorthwindProject.Core\obj\Debug\net5.0\NorthwindProject.Core.dll
+C:\Users\Aksamci\source\repos\NorthwindProject\NorthwindProject.Core\obj\Debug\net5.0\ref\NorthwindProject.Core.dll
+C:\Users\Aksamci\source\repos\NorthwindProject\NorthwindProject.Core\obj\Debug\net5.0\NorthwindProject.Core.pdb

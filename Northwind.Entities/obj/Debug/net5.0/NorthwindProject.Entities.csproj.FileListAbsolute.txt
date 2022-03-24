@@ -1,0 +1,15 @@
+C:\Users\Aksamci\source\repos\NorthwindProject\Northwind.Entities\bin\Debug\net5.0\NorthwindProject.Entities.deps.json
+C:\Users\Aksamci\source\repos\NorthwindProject\Northwind.Entities\bin\Debug\net5.0\NorthwindProject.Entities.dll
+C:\Users\Aksamci\source\repos\NorthwindProject\Northwind.Entities\bin\Debug\net5.0\ref\NorthwindProject.Entities.dll
+C:\Users\Aksamci\source\repos\NorthwindProject\Northwind.Entities\bin\Debug\net5.0\NorthwindProject.Entities.pdb
+C:\Users\Aksamci\source\repos\NorthwindProject\Northwind.Entities\bin\Debug\net5.0\NorthwindProject.Core.dll
+C:\Users\Aksamci\source\repos\NorthwindProject\Northwind.Entities\bin\Debug\net5.0\NorthwindProject.Core.pdb
+C:\Users\Aksamci\source\repos\NorthwindProject\Northwind.Entities\obj\Debug\net5.0\NorthwindProject.Entities.csproj.AssemblyReference.cache
+C:\Users\Aksamci\source\repos\NorthwindProject\Northwind.Entities\obj\Debug\net5.0\NorthwindProject.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aksamci\source\repos\NorthwindProject\Northwind.Entities\obj\Debug\net5.0\NorthwindProject.Entities.AssemblyInfoInputs.cache
+C:\Users\Aksamci\source\repos\NorthwindProject\Northwind.Entities\obj\Debug\net5.0\NorthwindProject.Entities.AssemblyInfo.cs
+C:\Users\Aksamci\source\repos\NorthwindProject\Northwind.Entities\obj\Debug\net5.0\NorthwindProject.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Aksamci\source\repos\NorthwindProject\Northwind.Entities\obj\Debug\net5.0\NorthwindProject.Entities.csproj.CopyComplete
+C:\Users\Aksamci\source\repos\NorthwindProject\Northwind.Entities\obj\Debug\net5.0\NorthwindProject.Entities.dll
+C:\Users\Aksamci\source\repos\NorthwindProject\Northwind.Entities\obj\Debug\net5.0\ref\NorthwindProject.Entities.dll
+C:\Users\Aksamci\source\repos\NorthwindProject\Northwind.Entities\obj\Debug\net5.0\NorthwindProject.Entities.pdb

@@ -1,0 +1,17 @@
+C:\Users\Aksamci\source\repos\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\net5.0\NorthwindProject.DataAccess.deps.json
+C:\Users\Aksamci\source\repos\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\net5.0\NorthwindProject.DataAccess.dll
+C:\Users\Aksamci\source\repos\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\net5.0\ref\NorthwindProject.DataAccess.dll
+C:\Users\Aksamci\source\repos\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\net5.0\NorthwindProject.DataAccess.pdb
+C:\Users\Aksamci\source\repos\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\net5.0\NorthwindProject.Core.dll
+C:\Users\Aksamci\source\repos\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\net5.0\NorthwindProject.Entities.dll
+C:\Users\Aksamci\source\repos\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\net5.0\NorthwindProject.Entities.pdb
+C:\Users\Aksamci\source\repos\NorthwindProject\NorthwindProject.DataAccess\bin\Debug\net5.0\NorthwindProject.Core.pdb
+C:\Users\Aksamci\source\repos\NorthwindProject\NorthwindProject.DataAccess\obj\Debug\net5.0\NorthwindProject.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Aksamci\source\repos\NorthwindProject\NorthwindProject.DataAccess\obj\Debug\net5.0\NorthwindProject.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aksamci\source\repos\NorthwindProject\NorthwindProject.DataAccess\obj\Debug\net5.0\NorthwindProject.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Aksamci\source\repos\NorthwindProject\NorthwindProject.DataAccess\obj\Debug\net5.0\NorthwindProject.DataAccess.AssemblyInfo.cs
+C:\Users\Aksamci\source\repos\NorthwindProject\NorthwindProject.DataAccess\obj\Debug\net5.0\NorthwindProject.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Aksamci\source\repos\NorthwindProject\NorthwindProject.DataAccess\obj\Debug\net5.0\NorthwindProject.DataAccess.csproj.CopyComplete
+C:\Users\Aksamci\source\repos\NorthwindProject\NorthwindProject.DataAccess\obj\Debug\net5.0\NorthwindProject.DataAccess.dll
+C:\Users\Aksamci\source\repos\NorthwindProject\NorthwindProject.DataAccess\obj\Debug\net5.0\ref\NorthwindProject.DataAccess.dll
+C:\Users\Aksamci\source\repos\NorthwindProject\NorthwindProject.DataAccess\obj\Debug\net5.0\NorthwindProject.DataAccess.pdb

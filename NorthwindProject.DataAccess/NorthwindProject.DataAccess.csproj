@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Build.Tasks.Core" Version="16.11.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Northwind.Entities\NorthwindProject.Entities.csproj" />
+    <ProjectReference Include="..\NorthwindProject.Core\NorthwindProject.Core.csproj" />
+  </ItemGroup>
+
+</Project>
